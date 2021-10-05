@@ -1,0 +1,3 @@
+﻿Dairy: Milk 25 1000 3 01:10:2021
+Ordinary: Bread 18 280 3 04:10:2021
+Meat: Shashlik 145 1000 10 04:10:2021 ExtraClass Pork
